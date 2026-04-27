@@ -6,6 +6,7 @@ We build thoughtful apps for iOS.
 
 - [Reflekt Journal](./reflekt-journal/) — AI-powered journaling & mood tracker
 - [Kindred Task](./kindred-task/) — Calm, intelligent task manager for iPhone, iPad, Mac & Watch
+- [Tykket](./tykket/) — Support inbox for indie devs
 
 ---
 
